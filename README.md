@@ -20,3 +20,5 @@ benchmark in the field but also pave the way for enhancing digital
 learning platforms, promising a more personalized, efficient, and
 effective learning process.
 
+![Model Structure](./KG_Transl_structure.png)
+

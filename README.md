@@ -22,3 +22,6 @@ effective learning process.
 
 ![Model Structure](./KG_Transl_structure.png)
 
+## Comparison of Model Performance 
+![](./ROC_curve_all_model_comparison.png)
+![](./simulator_output.png)
